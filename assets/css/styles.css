@@ -1,0 +1,27 @@
+.tamDiv {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.white {
+    background-color: white;
+    border: 1px solid black;
+}
+
